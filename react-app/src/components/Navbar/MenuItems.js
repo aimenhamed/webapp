@@ -4,4 +4,9 @@ export const MenuItems = [
         url: '/',
         cName: 'nav-links'
     },
+    {
+        title: 'Test',
+        url: '/test',
+        cName: 'nav-links'
+    },
 ]
